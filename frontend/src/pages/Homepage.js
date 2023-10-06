@@ -21,9 +21,7 @@ const Homepage = () => {
                             <br />
                         </StyledTitle>
                         <StyledText>
-                            Streamline school management, class organization, and add students and faculty.
-                            Seamlessly track attendance, assess performance, and provide feedback.
-                            Access records, view marks, and communicate effortlessly.
+                        Unlock a transformative learning experience with our platform, offering personalized training, adaptive assessments, real-time proctoring, a vibrant social learning community, video conferencing, gamification elements, course progress tracking, and personalized study schedules.
                         </StyledText>
                         <StyledBox>
                             <StyledLink to="/choose">
