@@ -16,8 +16,10 @@ dotenv.config();
 app.use(express.json({ limit: '10mb' }))
 app.use(cors())
 
+const MONGO_URL = "mongodb+srv://pratham:prats007@cluster1.m4x7qdw.mongodb.net/?retryWrites=true&w=majority";
+
 mongoose
-    .connect(process.env.MONGO_URL, {
+    .connect(MONGO_URL, {
         useNewUrlParser: true,
         useUnifiedTopology: true
     })

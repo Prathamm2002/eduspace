@@ -21,7 +21,7 @@ const Homepage = () => {
                             <br />
                         </StyledTitle>
                         <StyledText>
-                        Unlock a transformative learning experience with our platform, offering personalized training, adaptive assessments, real-time proctoring, a vibrant social learning community, video conferencing, gamification elements, course progress tracking, and personalized study schedules.
+                            Discover Dynamic Learning Excellence Right Now: Dive into personalized content, critical thinking, precise assessments, academic integrity, and collaborative tools for an exceptional education experience.
                         </StyledText>
                         <StyledBox>
                             <StyledLink to="/choose">
