@@ -45,8 +45,6 @@ EduSpace is a web-based application built using the MERN (MongoDB, Express.js, R
 
 # Installation
 
-```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -67,8 +65,3 @@ Now, navigate to `localhost:3000` in your browser.
 The Backend API will be running at `localhost:5000`.
 
 <br>
-
-# Deployment
-* Render - server side
-* Netlify - client side
-
